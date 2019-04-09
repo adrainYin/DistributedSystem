@@ -13,12 +13,6 @@
         <module name="zookeeperDemo" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="8">
-      <module name="api" target="1.8" />
-      <module name="DistributedSystem" target="1.8" />
-      <module name="dubbo-provider" target="1.8" />
-      <module name="dubboconsumer" target="1.8" />
-      <module name="zookeeperDemo" target="1.8" />
-    </bytecodeTargetLevel>
+    <bytecodeTargetLevel target="8" />
   </component>
 </project>
